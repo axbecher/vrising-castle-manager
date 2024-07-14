@@ -1,0 +1,7 @@
+{
+    "resources": [
+      {"name": "Wood", "image": "resources/wood.png"},
+      {"name": "Plank", "image": "resources/plank.png"},
+      {"name": "Reinforced Plank", "image": "resources/reinforced_plank.png"}
+    ]
+  }

@@ -37,33 +37,10 @@ Change your current working directory to the root of the cloned repository:
 cd <repository-directory>
 ```
 
-### Step 3: Create the Virtual Environment
+### Step 4: Install *tesseract_cmd*
 
-Run the following command to create a new virtual environment named `myvenv`:
+Download Tesseract-OCR from -> https://github.com/UB-Mannheim/tesseract/wiki
 
-```
-python -m venv myvenv
-```
-
-This will create a new directory called `myvenv` in your project directory, containing all the necessary files for a virtual environment.
-
-### Step 4: Activate the Virtual Environment
-
-Activate the virtual environment using one of the following commands based on your operating system:
-
-On Windows:
-
-```
-myvenv\Scripts\activate
-```
-
-On macOS and Linux:
-
-```
-source myvenv/bin/activate
-```
-
-Once activated, you will see `(myvenv)` in your command prompt, indicating that you are working within the virtual environment.
 
 ### Step 5: Install Dependencies
 
